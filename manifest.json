@@ -1,0 +1,17 @@
+{
+  "name": "Select Random Layers",
+  "id": "1227013202162788533",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "parameters": [
+    {
+      "name": "00%",
+      "key": "percentage",
+      "description": "Select a random percentage (1—99) of current selection",
+      "allowFreeform": true
+    }
+  ]
+}
