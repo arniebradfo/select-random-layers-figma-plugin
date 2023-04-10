@@ -10,8 +10,7 @@
     {
       "name": "00%",
       "key": "percentage",
-      "description": "Select a random percentage (1—99) of current selection",
-      "allowFreeform": true
+      "description": "Select a random percentage (1-99%) of current selection"
     }
   ]
 }
