@@ -6,6 +6,9 @@
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
   "parameters": [
     {
       "name": "00%",
