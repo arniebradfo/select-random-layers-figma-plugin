@@ -9,6 +9,7 @@
   "networkAccess": {
     "allowedDomains": ["none"]
   },
+  "parameterOnly": false,
   "parameters": [
     {
       "name": "00%",
